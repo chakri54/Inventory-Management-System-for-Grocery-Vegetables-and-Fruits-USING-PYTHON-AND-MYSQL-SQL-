@@ -21,20 +21,9 @@ This Python script serves as a simulation for managing a vegetable shop/grocery 
       - Indicates the cost price per kilogram for eachvegetable,fruits,grocery items, which influences the shop's profitability. It's used to calculate profits based on sales.
 
 ##### How to Use
-1. **Installation:**
-   - Clone the repository to your local machine:
-     ```bash
-     git clone https://github.com/yourusername/vegetable-shop.git
-     ```
-   
-2. **Running the Script:**
-   - Navigate to the project directory and execute the Python script:
-     ```bash
-     cd vegetable-shop
-     python vegetable_shop.py
-     ```
 
-3. **Customer Interaction:**
+
+1. **Customer Interaction:**
    - **Adding Vegetables/fruits/groceries to Cart:**
      - Customers can select from available  Vegetables/fruits/groceries and specify quantities they wish to purchase.
      - The script validates if the requested quantity is in stock and allows adjustments if necessary.
@@ -46,7 +35,7 @@ This Python script serves as a simulation for managing a vegetable shop/grocery 
      - Generates a detailed bill displaying each purchased item, quantity, selling price per kg, and total amount.
      - Calculates the subtotal and prompts the customer to pay.
 
-4. **End-of-Day Reporting:**
+2. **End-of-Day Reporting:**
    - **Profit Calculation:**
      - At the end of the day or when closing the shop (`ch2 == 'y'`), the script generates a report.
      - This report includes the total number of customers served, details of vegetables sold (initial quantity vs. final quantity), and profits earned.
