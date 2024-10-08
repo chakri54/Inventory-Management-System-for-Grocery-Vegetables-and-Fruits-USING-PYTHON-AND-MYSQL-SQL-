@@ -1,4 +1,5 @@
-### Inventory Management-System-for-Grocery-Vegetables-and-Fruits 
+### Inventory Management-System-for-Grocery-Vegetables-and-Fruits USING PYTHON AND MYSQL(SQL)
+
 Certainly! Let's delve into a more detailed description of the components in your vegetable shop management system, focusing on the vegetable inventory, quantities, selling prices, and cost prices.
 
 
